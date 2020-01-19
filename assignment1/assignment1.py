@@ -18,3 +18,4 @@ num_classes = len(classes)
 samples_per_class = 7
 plt.imshow(x_train[0].astype('uint8'))
 plt.show()
+#knn
